@@ -1,0 +1,8 @@
+Attribute,Group,n,Actual dropout rate,Flagged rate,Recall / TPR,FPR,Precision
+Gender,Female,564,0.245,0.257,0.775,0.089,0.738
+Gender,Male,321,0.455,0.486,0.849,0.183,0.795
+Age group,21-25,157,0.357,0.369,0.768,0.149,0.741
+Age group,<=20,513,0.199,0.209,0.706,0.085,0.673
+Age group,>25,215,0.586,0.633,0.921,0.225,0.853
+Scholarship,Holder,231,0.126,0.104,0.552,0.04,0.667
+Scholarship,Non-holder,654,0.39,0.424,0.843,0.155,0.776

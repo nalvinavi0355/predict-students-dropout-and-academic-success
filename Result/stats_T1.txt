@@ -1,0 +1,7 @@
+Statistical comparison (T1, F1 dropout, 10 CV folds)
+Friedman chi2=3.80, p=0.1496
+Mean rank (1 = best):
+LogisticRegression      1.7
+HistGradientBoosting    1.8
+RandomForest            2.5
+Nemenyi critical difference (alpha=0.05): 1.05 -> models whose mean ranks differ by more than this differ significantly

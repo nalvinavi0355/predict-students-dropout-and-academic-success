@@ -1,0 +1,4 @@
+Attribute,Equal opportunity difference (max-min TPR),FPR difference (max-min),Demographic parity difference (max-min flagged rate)
+Gender,0.074,0.094,0.229
+Age group,0.215,0.14,0.424
+Scholarship,0.291,0.116,0.32
